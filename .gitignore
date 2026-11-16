@@ -1,8 +1,8 @@
+.venv/
+venv/
 __pycache__/
 *.py[cod]
-.zenv
-/venv
-/.ipynb_checkpoints/
-data/output/*
-!data/output/.gitkeep
 .DS_Store
+Thumbs.db
+data/output/hd_pics*
+data/output/custom_*
